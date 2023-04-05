@@ -166,3 +166,10 @@ body::before{
     text-decoration: underline;
 }
 
+@media screen and (max-width: 480px){
+    .login-body{
+        width: 85%;
+        height: 92%;
+    }
+}
+
